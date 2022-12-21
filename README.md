@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akshay panigrahi</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-- 🔭 I’m currently working on [DevOps](https://www.linkedin.com/in/DevOps/)
+- 🔭 I’m currently working on [DevOps](https://www.devops.com/)
 
 - 🌱 I’m currently learning **Kubernetes,ML&AI**
 
-- 👯 I’m looking to collaborate on [Freelancing](https://www.linkedin.com/in/freelancing/)
+- 👯 I’m looking to collaborate on [Freelancing](https://www.upwork.com/)
 
-- 🤝 I’m looking for help with [DevOps Projects](https://www.linkedin.com/in/devops_projects/)
+- 🤝 I’m looking for help with [DevOps Projects](https://www.devtron.ai/)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/akshaypanigrahi/](https://www.linkedin.com/in/akshaypanigrahi/)
 
