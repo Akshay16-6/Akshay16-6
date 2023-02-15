@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/akshaypanigrahi/](https://www.linkedin.com/in/akshaypanigrahi/)
 
-- 📝 I regularly write articles on [akshfeed.click](akshfeed.click)
+- 📝 I regularly write articles on [akshfeed.click](www.akshfeed.click)
 
 - 💬 Ask me about **DevOps Tools and Automation**
 
